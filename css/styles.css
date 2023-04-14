@@ -1,0 +1,111 @@
+body{
+    background-color: #EEEEEE;
+}
+.hello{
+    text-align: center;
+    display: inline-block;
+    padding: 100px;
+    color: black;
+    width: 100px;
+    margin:90px 17px 0px 300px;
+}
+.line{
+    display: inline;
+    margin: 90px 07px -9px 400px;
+}
+.intro{
+    background-color: #EEEEEE ;
+}
+.About{
+    background-color: #393E46;
+    padding: 15% 15%;
+    
+}
+.Services{
+    background-color: #EEEEEE;
+    padding: 10% 10%;
+
+    
+
+}
+.Work{
+    background-color: #EEEEEE;
+}
+.contact{
+    background-color: #222831;
+} 
+.iconn{
+    height: 500px;
+    width: 500px;
+    margin: -215px auto 0 924px;
+    display: inline;
+    
+}  
+.icon2{
+
+   height:200px;
+   width:200px;
+   float: left;
+   gap: 200px;
+   
+}
+.firstHr{
+    border-style: dotted;
+    border-color: aqua;
+}
+.heading{
+    margin: 0 auto 0 auto;
+}
+
+.caroimg{
+    width: 50px;
+    height: 300px;
+   
+
+}
+.Contact{
+    padding: 7% 20%;
+    background-color: #393E46;
+
+
+}
+.form{
+    margin:0 0 0 850px;
+}
+
+.difcolor{
+    color: #B2A4FF;
+}
+.bb{
+    background-color: #B2A4FF;
+}
+.social{
+    position: relative;
+    bottom: 270px;
+    margin:8px;
+    color:#B2A4FF;
+}  
+
+.social:hover{
+    color:black ;
+}
+.download{
+    position: relative;
+    bottom:180px;
+    right:320px;
+}
+btn:hover{
+    color:black ;
+}
+.phone{
+    position: relative;
+    bottom: 230px;
+    color: #B2A4FF;
+}
+
+.navbar-nav{
+    margin:0 0 0 1080px;
+}
+.card-body:hover{
+    background-color:#393E46;
+}
